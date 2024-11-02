@@ -1,4 +1,4 @@
-#PARCIAL 1 - DESARROLLO DE SOFTWARE
+# PARCIAL 1 - DESARROLLO DE SOFTWARE
 
 Link para ver el diagrama de secuencia: https://drive.google.com/drive/folders/1Z_MP2FXLhO2q0rQijFGEyVGTiux6JBuK?usp=sharing
 
